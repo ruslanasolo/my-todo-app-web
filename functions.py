@@ -1,4 +1,4 @@
-FILEPATH = "/Users/Rusya/mega/app1/venv/todos.txt"
+FILEPATH = "/Users/Rusya/mega/web_app/todos.txt"
 #FILEPATH = "todos.txt"
 
 
