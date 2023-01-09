@@ -1,4 +1,4 @@
-FILEPATH = "/Users/Rusya/mega/web_app/todos.txt"
+FILEPATH = "/Users/Rusya/mega/pythonProject/web_app/todos.txt"
 #FILEPATH = "todos.txt"
 
 
