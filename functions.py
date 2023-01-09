@@ -1,5 +1,5 @@
-FILEPATH = "/Users/Rusya/mega/pythonProject/web_app/todos.txt"
-#FILEPATH = "todos.txt"
+#FILEPATH = "/Users/Rusya/mega/pythonProject/web_app/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def get_todos(filepath=FILEPATH):  # custom function definition
@@ -13,7 +13,6 @@ def write_todos(todos_arg, filepath=FILEPATH):
     """ Write the todo items lst ib the text file."""
     with open(filepath, 'w') as file:
         file.writelines(todos_arg)
-
 
 #  if _name_ == "_main_":
     #  print(get_todos(()))
